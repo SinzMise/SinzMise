@@ -3,13 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=欢迎各位乘坐星空的列车，来到这座充满故事的魔法小屋;Welcome all travelers with stories to this magical cabin full of stories
-
-
-作者: 王九弦SZ·Ninty
-链接: https://blog.sinzmise.top/about/
-来源: 星空故事·魔法小屋
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=欢迎各位乘坐星空的列车，来到这座充满故事的魔法小屋;Welcome all travelers with stories to this magical cabin full of stories&center=true&size=27" />
     </a>
   </div>
 
