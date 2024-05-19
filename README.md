@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=欢迎各位乘坐星空的列车，来到这座充满故事的魔法小屋;现在，跟着坐上时空专车，一起旅行吧~~&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=欢迎各位乘坐星空的列车，来到这座充满故事的魔法小屋;现在，跟着微风和光芒的指引，一起去旅行吧~~&center=true&size=27" />
     </a>
   </div>
 
