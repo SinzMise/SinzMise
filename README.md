@@ -2,17 +2,17 @@
 
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
-    <a href="https://blog.sunguoqi.com/">
+    <a href="https://blog.storical.space/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=欢迎各位乘坐星空的列车，来到这座充满故事的魔法小屋;现在，跟着微风和光芒的指引，一起去旅行吧~~&center=true&size=27" />
     </a>
   </div>
 
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://www.sinzmise.top/"><img src="https://img.shields.io/badge/Website-个人主页-blue" /></a>&emsp;
-    <a href="https://blog.sinzmise.top/"><img src="https://img.shields.io/badge/Blog-博客-8c36db" /></a>&emsp;
+    <a href="https://www.storical.space/"><img src="https://img.shields.io/badge/Website-个人主页-blue" /></a>&emsp;
+    <a href="https://blog.storical.space/"><img src="https://img.shields.io/badge/Blog-博客-8c36db" /></a>&emsp;
     <!-- wakatime -->    
-    <a href="https://wakatime.com/@sun0225SUN"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
+    <a href="https://wakatime.com/@SinzMise"><img src="https://wakatime.com/badge/user/2e5b329d-4b47-47f4-ac44-91c8e330f21b.svg" /></a>
 
   </div>
 
