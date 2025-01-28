@@ -23,16 +23,8 @@
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/SinzMise/SinzMise/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 
+  <picture>
+    <img src="https://skillicons.dev/icons?i=windows,visualstudio,vscode,md,git,notion,mysql,nginx,cloudflare,js,css,html,jquery,discord,github,gmail,gulp,nodejs,npm,ps,php,powershell&perline=20" />
+  </picture>
+
 </div>
-
-<table>
-  
-<tr><td>
-
-### 🤺 About Me（关于我）
-
-<p>&emsp;&emsp;嗨，你好，我是王九弦SZ·Ninty。</p>
-<p>&emsp;&emsp;是一名高中生，同时 <del>也算是</del> 一个喜欢写故事的旅人</p>
-
-</td></tr>
-</table>
