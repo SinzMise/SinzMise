@@ -12,7 +12,7 @@
     <a href="https://www.storical.space/"><img src="https://img.shields.io/badge/Website-个人主页-blue" /></a>&emsp;
     <a href="https://blog.storical.space/"><img src="https://img.shields.io/badge/Blog-博客-8c36db" /></a>&emsp;
     <!-- wakatime -->    
-    <a href="https://wakatime.com/@SinzMise"><img src="https://wakatime.com/share/badges/projects?q=hexo" /></a>
+    <a href="https://wakatime.com/@SinzMise"><img src="https://wakatime.com/badge/user/5d9507b6-015d-469b-9b16-0c9f2d6ed29a.svg" /></a>
 
   </div>
 
