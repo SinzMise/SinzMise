@@ -24,7 +24,7 @@
   </picture>
 
   <picture>
-    <img src="https://skillicons.dev/icons?i=windows,visualstudio,vscode,md,git,notion,mysql,nginx,cloudflare,js,css,html,jquery,discord,github,gmail,gulp,nodejs,npm,ps,php,powershell&perline=20" />
+    <img src="https://skillicons.dev/icons?i=windows,visualstudio,vscode,md,git,notion,mysql,nginx,cloudflare,js,css,html,jquery,discord,github,gmail,gulp,nodejs,npm,ps,php,powershell&perline=15" />
   </picture>
 
 </div>
